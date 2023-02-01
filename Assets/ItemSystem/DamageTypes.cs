@@ -7,6 +7,6 @@
 {
     Fire = 1,
     Bleed = 2,
-    Ice = 4,
-    Corruption = 8
+    Piercing = 4,
+    Corruption = 8,
 }
